@@ -1,0 +1,7 @@
+# Ignore project-specific cache directory
+.project
+.classpath
+.settings
+
+# Ignore build output directory
+target
