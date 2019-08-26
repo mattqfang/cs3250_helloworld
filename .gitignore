@@ -1,10 +1,7 @@
-# Ignore IDE specific config file
+# Remove IDE Specific config folder
 .vscode
-
-# Ignore project-specific cache directory
-.project
-.classpath
+/target/
 .settings
+.classpath
+.project
 
-# Ignore build output directory
-target
